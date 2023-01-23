@@ -1,0 +1,23 @@
+html, body{
+    background:  black;
+    color: white;
+    margin: 0px;
+}
+
+.title-name{
+    font-size: 35px;
+    font-style: italic;
+    padding: 10px;
+    text-decoration: none;
+    color: aqua;
+}
+
+.navbar{
+    background-color: gray;
+    display: flex;
+    align-items: center;
+}
+
+.input-style{
+    
+}
