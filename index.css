@@ -9,15 +9,51 @@ html, body{
     font-style: italic;
     padding: 10px;
     text-decoration: none;
-    color: aqua;
+    color: #43d392;
 }
 
 .navbar{
     background-color: gray;
     display: flex;
+    justify-content: space-between;
     align-items: center;
 }
 
 .input-style{
-    
+    padding: 5px;
+    padding-right: 20px;
+}
+
+.title-div{
+    padding: 5px;
+}
+
+.search-movie{
+    border-radius: 7px;
+    height: 30px;
+}
+
+.container{
+    padding-left: 10px;
+    display: flex;
+    margin-top: 10px;
+}
+
+.card{
+    height: auto;
+    border-radius: 8px;
+    border: 1px solid;
+}
+
+.column{
+    height: auto
+}
+
+.img-style{
+    height: 300px;
+    padding: 10px;
+}
+
+.movie-title{
+    text-align: center;
 }
